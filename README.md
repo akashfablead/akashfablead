@@ -42,4 +42,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashvasaniya&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
+---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akashvasaniya&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/akashvasaniya/akashvasaniya/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
